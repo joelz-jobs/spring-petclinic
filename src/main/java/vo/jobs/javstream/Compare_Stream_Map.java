@@ -39,7 +39,9 @@ public static void main(String[] args) {
 		System.out.println("Equality: " + map1.equals(map2));
       boolean r= IsEqualZ(map1,map2);
       System.out.println("EqualityFn: " + r);
-	}
+    }
+
+
 
  public static boolean IsEqualZ
    (Map<Integer, String> first,
